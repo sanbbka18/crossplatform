@@ -1,0 +1,6 @@
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\bin\Debug\task2.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\bin\Debug\task2.pdb
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\obj\Debug\task2.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\task2\obj\Debug\task2.pdb

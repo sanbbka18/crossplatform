@@ -1,0 +1,10 @@
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\bin\Debug\ConsoleTask3.exe.config
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\bin\Debug\ConsoleTask3.exe
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\bin\Debug\ConsoleTask3.pdb
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\bin\Debug\task3.dll
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\bin\Debug\task3.pdb
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\obj\Debug\ConsoleTask3.csprojAssemblyReference.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\obj\Debug\ConsoleTask3.csproj.CoreCompileInputs.cache
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\obj\Debug\ConsoleTask3.csproj.CopyComplete
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\obj\Debug\ConsoleTask3.exe
+C:\Users\sanbbka\Documents\2 курс 2 семестр\кроссплатформене программирование\Лаб 1\ConsoleTask3\obj\Debug\ConsoleTask3.pdb
